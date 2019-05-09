@@ -2,6 +2,8 @@
 
 hei jeg er en forandring
 
+forandring nr 2 WOW
+
 If you are on a team of a few people and you are working together on a product,
 you will sooner or later need to integrate each team member's work with that
 of the other team members. You will likely also have a customer who wants to
